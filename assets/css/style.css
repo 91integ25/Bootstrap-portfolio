@@ -6,13 +6,55 @@ body {
 	height:400px;
 	width: 650px
 }
-.about{
-	
-}
-.connect{
-	height:15%;
-	width: 20%;
+/*end of container style*/
+.navbarStyle {
 	background-color: #fff;
-}.connect img {
-	display: inline;
+}
+
+/*end of navbar style*/
+.about{
+	height:400px;
+	width:600px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	margin-left: 6%;
+}
+.subHeader{
+	border-bottom: solid 2px #d3d3d3;
+	padding-bottom: 10px;
+	color: #4aaaa5;
+}
+.about img {
+	height: 200px;
+	width:150px;
+	float:left;
+	margin:3%;
+}
+.about p {
+	line-height: 200%;
+	margin:1%;
+}
+/*end of about style*/
+.connect{
+	height:200px;
+	width:270px;
+	background-color: #fff;
+	margin-left: 6%;
+}
+.connect img{
+	margin-left: 10px;
+	height:50px;
+	width: 50px;
+	display:inline;
+}
+
+/*end of connect style*/
+footer{
+	position:absolute;
+	bottom: 0;
+	height: 100px;
+	width:100%;
+	background-color: #666;
+	color:#fff;
+	border-top: 5px solid #4aaaa5;
 }
