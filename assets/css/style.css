@@ -34,6 +34,10 @@ body {
 	line-height: 200%;
 	margin:1%;
 }
+.about h2 {
+	margin-left: 4%;
+	margin-right: 4%;
+}
 /*end of about style*/
 .connect{
 	height:200px;
