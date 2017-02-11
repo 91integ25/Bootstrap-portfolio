@@ -5,6 +5,9 @@ body {
 .navbarStyle {
 	background-color: #fff;
 }
+.navbarStyle p {
+	
+}
 
 /*end of navbar style*/
 .about{
@@ -35,6 +38,12 @@ body {
 	margin-right: 4%;
 }
 /*end of about style*/
+.largeInput{
+	width: 100%;
+}
+textarea{
+	width: 100%;
+}
 .submitButton{
 	height:40px;
 	width:150px;
@@ -87,9 +96,7 @@ body {
 	background-size: cover;
 }
 /*end of portfolio style*/
-textarea{
-	clear: both;
-}
+
 .connect{
 	margin-top:3%;
 	margin-bottom: 20%;
