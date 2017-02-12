@@ -1,6 +1,8 @@
 body {
 	background-image: url(../images/Background.png);
+	
 }
+
 /*end of container style*/
 .navbarStyle {
 	background-color: #fff;
@@ -110,6 +112,7 @@ textarea{
 }
 /*end of connect style*/
 footer{
+	position: fixed;
 	bottom: 0;
 	height: 100px;
 	width:100%;
