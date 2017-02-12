@@ -21,7 +21,7 @@ html {
 /*end of navbar style*/
 .about {
 	margin-top: 2%;
-	margin-bottom:10%;
+	margin-bottom:5%;
 	float:left;
 	background-color: #fff;
 	border: 1px solid #ddd;
@@ -100,9 +100,7 @@ textarea {
 
 .connect {
 	margin-bottom: 20%;
-	margin-top:3%;
 	background-color: #fff;
-	
 }
 .connect img {
 	height:50px;
